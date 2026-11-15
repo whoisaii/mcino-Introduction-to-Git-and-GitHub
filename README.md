@@ -34,4 +34,4 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 Apache License 2.0. See [LICENSE](LICENSE).
 
-_© 2023 XYZ, Inc._
+_© 2022 XYZ, Inc._
